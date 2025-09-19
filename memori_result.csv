@@ -1,0 +1,2 @@
+timestamp,target_words,guesses,matched_pairs,correct_count,total,time_s,display_seconds,fuzzy
+2025-09-19T04:46:54.791Z,"table|flower|glass|bread|paper","table|flower|glass|bread|paper","table->table|flower->flower|glass->glass|bread->bread|paper->paper",5,5,13.51,5,false
